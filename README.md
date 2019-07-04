@@ -1,5 +1,5 @@
 # expressApp
-Express app made with Pub template (WIP)
+Express app made with Pug template (WIP)
 
 # to build this app you need to nodemon run dev
 
